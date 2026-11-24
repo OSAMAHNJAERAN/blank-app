@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("حمودي الفروفوشي")
 if st.button("Greet"):
     st.info("Hello, Osamah")
